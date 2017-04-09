@@ -1,0 +1,15 @@
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\bin\Debug\ExtractContactInfoFromPdf.exe.config
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\bin\Debug\ExtractContactInfoFromPdf.exe
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\bin\Debug\ExtractContactInfoFromPdf.pdb
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\bin\Debug\itextsharp.dll
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.csprojResolveAssemblyReference.cache
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\MainWindow.g.cs
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\App.g.cs
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf_MarkupCompile.cache
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf_MarkupCompile.lref
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\MainWindow.baml
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.g.resources
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.Properties.Resources.resources
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.csproj.GenerateResource.Cache
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.exe
+F:\Jobs\TestingJob\C#_WPF\ExtractContactInfoFromPdf\ExtractContactInfoFromPdf\obj\Debug\ExtractContactInfoFromPdf.pdb
